@@ -11,3 +11,6 @@ Program dari Final Project:
 4. Jalankan program [1_split_image_into_folder](Program/ReferenceUpdated/1_split_image_into_folder.py) untuk melakukan splitting terhadap citra di folder 2_0_0_enhanced ke tiap kelas ke dalam folder, tahap ini akan menciptakan folder baru di Dataset yaitu 2_0_1_splitted.
 5. Jalankan program [1_split_normal_without_preprocessing](Program/ReferenceUpdated/1_split_normal_without_preprocessing.py) untuk melakukan splitting terhadap citra di folder 1_asli ke tiap kelas ke dalam folder, tahap ini akan menciptakan folder baru di Dataset yaitu 1_asli_splitted.
 6. Untuk proses eksperimen bisa dilihat di [2_training_and_testing_based_on_github](Program/ReferenceUpdated/2_training_and_testing_based_on_github.ipynb).
+
+## Hasil Penelitian
+Untuk hasil penelitian bisa dilihat di dalam folder [berikut](Result/2_4_reference_updated).
