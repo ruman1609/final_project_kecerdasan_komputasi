@@ -14,3 +14,5 @@ Program dari Final Project:
 
 ## Hasil Penelitian
 Untuk hasil penelitian bisa dilihat di dalam folder [berikut](Result/2_4_reference_updated).
+
+### Terima kasih...
