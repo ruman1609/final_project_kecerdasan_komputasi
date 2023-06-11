@@ -1,5 +1,5 @@
 # Implementasi Klasifikasi Diabetic Retinopathy Dengan Datasset Eyepacs
-Repository ini berisi laporan dan program dari projek Implementasi Klasifikasi Diabetic Retinopathy Dengan Datasset Eyepacs, fokus pada projek ini ialah melakukan implementasi dari teknik Entropy Enhancement dan teknik Hybird neural Network dalam mendeteksi penyakit Diabeti Retinopathy yang terdiri dari 5 Kelas Normal, Mild, Moderate, Severe, PDR. Dataset yang digunakan adalah dataset Eyepacs yang berjumlah 35.129 (dari 88.702 gambar) yang mana dataset tersebut bersifat tidak seimbang.
+Repository ini berisi laporan dan program dari projek Implementasi Klasifikasi Diabetic Retinopathy Dengan Datasset Eyepacs, fokus pada projek ini ialah melakukan implementasi dari teknik Entropy Enhancement dan teknik Hybird neural Network dalam mendeteksi penyakit Diabetic Retinopathy yang terdiri dari 5 Kelas Normal, Mild, Moderate, Severe, PDR. Dataset yang digunakan adalah dataset Eyepacs yang berjumlah 35.129 (dari 88.702 gambar) yang mana dataset tersebut bersifat tidak seimbang.
 Program dari Final Project:
 1. Rudy Rachman - 6025222002
 2. Zelli Ghea Mardi Anugrah - 6025222014
